@@ -1,0 +1,3 @@
+why not create a git diary,
+talk about myself honest to myself
+it'll help me practise git and github
